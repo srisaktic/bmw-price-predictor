@@ -78,8 +78,8 @@ AWS EC2 with Elastic IP
 ```bash
 bmw-price-prediction/
 │
-├── backend/          # FastAPI service
-├── frontend/         # Streamlit UI
+├── backend(app_folder)/          # FastAPI service
+├── frontend(ui)/         # Streamlit UI
 ├── model/            # Trained model
 ├── data/             # Dataset
 ├── notebooks/        # Training notebooks
