@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="http://3.150.203.235:8502/">
+  <a href="https://bmw-price-predictor-rhbypw6b6qntxdt9cszde8.streamlit.app/">
     <img src="https://img.shields.io/badge/Live Demo-Click Here-green?style=for-the-badge" />
   </a>
 </p>
